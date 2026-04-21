@@ -59,3 +59,4 @@ The app uses `WindowManager.TYPE_APPLICATION_OVERLAY` to draw buttons on top of 
 - Keys are sent as both `ACTION_DOWN` and `ACTION_UP` (triggered on finger press/release), supporting hold-to-move
 - If a specific game still doesn't respond, it may use a custom input library — open an issue and we can try `AccessibilityService` injection as an alternative
 
+
